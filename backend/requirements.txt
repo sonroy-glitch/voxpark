@@ -6,7 +6,6 @@ bcrypt
 flask-cors
 praat-parselmouth
 opensmile
-librosa
 soundfile
 groq
 assemblyai
