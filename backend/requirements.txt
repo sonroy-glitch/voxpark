@@ -11,3 +11,4 @@ groq
 assemblyai
 gunicorn
 python-dotenv
+scikit-learn
