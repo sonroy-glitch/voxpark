@@ -4,7 +4,7 @@ scipy
 prisma
 bcrypt
 flask-cors
-parselmouth
+praat-parselmouth
 opensmile
 librosa
 soundfile
