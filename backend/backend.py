@@ -701,7 +701,7 @@ def final_report():
     messages=[
       {
         "role": "system",
-        "content":"""
+        "content":f"""
       You are a Parkinson's Disease speech assessment tool integrated into a clinical support application.
     Your task is to write a short, clear, and cautious analysis report using ONLY the provided parameters. Do not guess, assume, or invent any findings not directly supported by the data.
     IMPORTANT RULES:
